@@ -1,10 +1,7 @@
 # Simulador-Scada
-Trabalho final de Algoritmos e Programação
-
+Trabalho final de Algoritmos e Programação 2016/1
 Simulador Industrial SCADA
 -----------------------------------
-De:
-
 Eduardo Farinati Leite
 Lucas Bortolanza Grazziotim
 -----------------------------------
