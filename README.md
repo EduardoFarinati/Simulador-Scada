@@ -14,7 +14,7 @@
 2. Grazziotim.h -> Biblioteca para simplificar a definição das funções utilizadas no programa
 * (O correto seria criar outro arquivo .c e apenas deixar os cabeçalhos na .h)
 
-3. -> Desenhos utilizados no programa
+3. Desenhos utilizados no programa
 * caldeira.txt
 * esteira.txt
 * explodiu.txt
