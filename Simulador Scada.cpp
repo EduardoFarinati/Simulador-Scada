@@ -34,7 +34,7 @@ void animacao_esteira(PARAMETROS*);
 
 int main(void)//Main da função determina as opções de fechar o programa, carregar uma simulação ou Criar uma nova simulação
 {
-    int op; //Seleciona a opção a partir do menu principal, contador para o for
+    int op; //Seleciona a opção a partir do menu principal, contador para o while
     PARAMETROS parametros;
 
     // Formata o prompt para o tamanho e linguagem desejados
