@@ -2,8 +2,7 @@
 - Trabalho final de Algoritmos e Programação 2016/1
 - Simulador Industrial SCADA
 -----------------------------------
-## Autores:
-
+## Programadores:
 - Eduardo Farinati Leite
 - Lucas Bortolanza Grazziotim
 -----------------------------------
