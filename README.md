@@ -12,13 +12,13 @@
 
 1. Simulador Scada.cpp -> Código Principal do Programa
 2. Grazziotim.h -> Biblioteca para simplificar a definição das funções utilizadas no programa
-* (O correto seria criar outro arquivo .c e apenas deixar os cabeçalhos na .h)
+    * (O correto seria criar outro arquivo .c e apenas deixar os cabeçalhos na .h)
 
 3. Desenhos utilizados no programa:
-* caldeira.txt
-* esteira.txt
-* explodiu.txt
-* quebrou.txt
+    1. caldeira.txt
+    2. esteira.txt
+    3. explodiu.txt
+    4. quebrou.txt
 -----------------------------------
 
 ## Guia sobre as funções e as estruturas utilizadas no programa:
