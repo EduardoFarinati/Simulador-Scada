@@ -1,12 +1,12 @@
 # Simulador-Scada
-Trabalho final de Algoritmos e Programação 2016/1
-Simulador Industrial SCADA
+### Trabalho final de Algoritmos e Programação 2016/1
+### Simulador Industrial SCADA
 -----------------------------------
-Eduardo Farinati Leite
-Lucas Bortolanza Grazziotim
+### Eduardo Farinati Leite
+### Lucas Bortolanza Grazziotim
 -----------------------------------
 
-Guia de Arquivos:
+# *Guia de Arquivos:
 
 Simulador Scada.cpp -> Código do Programa
 Grazziotim.h -> Biblioteca para simplificar a definição das funções utilizadas no programa
@@ -19,10 +19,10 @@ explodiu.txt
 quebrou.txt
 -----------------------------------
 
-*Guia sobre as funções e as estruturas utilizadas no programa:
+# *Guia sobre as funções e as estruturas utilizadas no programa:
 
 
-*Na Grazziotim.h:
+## *Na Grazziotim.h:
 
 struct animacao_caldeira_posic
 	//Grava a posição das bolinhas e o ciclo em que se encontram na animação
@@ -121,7 +121,7 @@ int carrega_parametros(PARAMETROS *to_read)
 	//Carrega os parâmetros de um arquivo binário determinado pelo usuário
 
 
-*No Simulador Scada.cpp:
+## *No Simulador Scada.cpp:
 
 int main(void)
 	//Main da função, determina as opções de: iniciar uma nova simulação, carregar uma simulação ou fechar o programa
