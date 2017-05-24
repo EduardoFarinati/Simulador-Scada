@@ -10,21 +10,21 @@
 
 ## Guia de Arquivos:
 
-1. Simulador Scada.cpp -> Código do Programa
+1. Simulador Scada.cpp -> Código Principal do Programa
 2. Grazziotim.h -> Biblioteca para simplificar a definição das funções utilizadas no programa
-(O correto seria criar outro arquivo .c e apenas deixar os cabeçalhos na .h)
+* (O correto seria criar outro arquivo .c e apenas deixar os cabeçalhos na .h)
 
 3. -> Desenhos utilizados no programa
-caldeira.txt
-esteira.txt
-explodiu.txt
-quebrou.txt
+* caldeira.txt
+* esteira.txt
+* explodiu.txt
+* quebrou.txt
 -----------------------------------
 
-## * Guia sobre as funções e as estruturas utilizadas no programa:
+## Guia sobre as funções e as estruturas utilizadas no programa:
 
 
-### * Na Grazziotim.h:
+### Na Grazziotim.h:
 
 struct animacao_caldeira_posic
 	//Grava a posição das bolinhas e o ciclo em que se encontram na animação
@@ -123,7 +123,7 @@ int carrega_parametros(PARAMETROS *to_read)
 	//Carrega os parâmetros de um arquivo binário determinado pelo usuário
 
 
-### * No Simulador Scada.cpp:
+### No Simulador Scada.cpp:
 
 int main(void)
 	//Main da função, determina as opções de: iniciar uma nova simulação, carregar uma simulação ou fechar o programa
