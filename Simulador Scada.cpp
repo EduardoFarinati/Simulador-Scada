@@ -75,6 +75,7 @@ int menu_principal()//Aqui é impresso o seletor para opção no main, um retorn
     system("CLS");            //Limpa a tela para retorno do menu!
     textcolor(VERDE);          //cor do texto
 
+    // Barras duplicadas são utilizadas para poder imprimir o caractér '\'
     std::cout   << "*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*\n"
                 << "|\\-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-/|\n"
                 << "*|*                                                                         *|*\n"
@@ -87,7 +88,7 @@ int menu_principal()//Aqui é impresso o seletor para opção no main, um retorn
                 << "|*      |...|' .||. .||    ||.  `|..'|. .||. `|..||. `|..||. `|..|' .||.     *|\n"
                 << "*|                                                                           |*\n"
                 << "|*                                                                           *|\n"
-                << "*|           .|'''|  .|'''',      /.\\      '||'''|.      /.\\                 |*\n" //Barras duplicadas para poder imprimir o caractér '\'
+                << "*|           .|'''|  .|'''',      /.\\      '||'''|.      /.\\                 |*\n"
                 << "|*           ||      ||          // \\\\      ||   ||     // \\\\                *|\n"
                 << "*|           `|'''|, ||         //...\\\\     ||   ||    //...\\\\               |*\n"
                 << "|*            .   || ||        //     \\\\    ||   ||   //     \\\\              *|\n"
