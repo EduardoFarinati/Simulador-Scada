@@ -1,5 +1,5 @@
 # Simulador Industrial SCADA
-- Trabalho final de Algoritmos e Programação 2016/1
+- Trabalho final de Algoritmos e Programação 2016/1 - UFRGS
 -----------------------------------
 ## Programadores:
 - Eduardo Farinati Leite
