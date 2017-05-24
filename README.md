@@ -9,7 +9,7 @@
 ## Guia de Arquivos:
 
 1. Simulador Scada.cpp -> Código Principal do Programa
-2. Grazziotim.h -> Biblioteca para simplificar a definição das funções utilizadas no programa
+2. Grazziotim.h -> Biblioteca para aglutinar definição das principais funções utilizadas no programa
     * (O correto seria criar outro arquivo .c e apenas deixar os cabeçalhos na .h)
 
 3. Desenhos utilizados no programa:
